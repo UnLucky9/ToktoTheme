@@ -1,0 +1,27 @@
+//META{"name":"TokyoTheme","description":"TokyoTheme","author":"Locki","version":"Auto Update"}*//
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--themeColor1: #36D1DC;
+--themeColor2: rgba(91,134,229,0.5);
+--customFont: 'Open Sans', sans-serif;
+--homeImage: url('https://i.pinimg.com/originals/d7/f6/62/d7f662189016d63513db63ecedac68f1.jpg');
+--backgroundColor: rgba(13,13,13,0.35);
+--backgroundImage: url('https://i.pinimg.com/originals/d7/f6/62/d7f662189016d63513db63ecedac68f1.jpg');
+--backgroundBlur: 1px;
+--backgroundOpacity: 0.9;
+
+--rs-small-spacing: 1px;
+--rs-large-spacing: 2px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #747f8d;
+}
